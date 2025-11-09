@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="640">
+<rect x="0" y="0" width="1024" height="640" fill="#ffffff"/>
+<rect x="80" y="60" width="864" height="420" fill="#f7faff" stroke="#c9d6ff" stroke-width="2"/>
+<rect x="100" y="100" width="640" height="40" fill="#eef3ff"/>
+<rect x="700" y="100" width="40" height="240" fill="#eef3ff"/>
+<rect x="100" y="300" width="640" height="40" fill="#eef3ff"/>
+<rect x="100" y="100" width="40" height="240" fill="#eef3ff"/>
+<rect x="410" y="190" width="40" height="60" fill="#ffe8e8" stroke="#ffb3b3"/>
+<rect x="460" y="190" width="40" height="60" fill="#e8fff1" stroke="#b3ffcc"/>
+<text x="420" y="185" font-size="12" fill="#c44">Stair A</text>
+<text x="468" y="185" font-size="12" fill="#2a6">Lift A</text>
+<rect x="80" y="60" width="80" height="40" fill="#fff" stroke="#ccd7ea"/>
+<text x="86" y="84" font-size="12" fill="#333">Room 201</text>
+<rect x="200" y="60" width="80" height="40" fill="#fff" stroke="#ccd7ea"/>
+<text x="206" y="84" font-size="12" fill="#333">Room 202</text>
+<rect x="320" y="60" width="80" height="40" fill="#fff" stroke="#ccd7ea"/>
+<text x="326" y="84" font-size="12" fill="#333">Room 203</text>
+<rect x="440" y="60" width="80" height="40" fill="#fff" stroke="#ccd7ea"/>
+<text x="446" y="84" font-size="12" fill="#333">Room 204</text>
+<rect x="560" y="60" width="80" height="40" fill="#fff" stroke="#ccd7ea"/>
+<text x="566" y="84" font-size="12" fill="#333">Room 205</text>
+<rect x="80" y="340" width="80" height="40" fill="#fff" stroke="#ccd7ea"/>
+<text x="86" y="364" font-size="12" fill="#333">Room 206</text>
+<rect x="200" y="340" width="80" height="40" fill="#fff" stroke="#ccd7ea"/>
+<text x="206" y="364" font-size="12" fill="#333">Room 207</text>
+<rect x="320" y="340" width="80" height="40" fill="#fff" stroke="#ccd7ea"/>
+<text x="326" y="364" font-size="12" fill="#333">Room 208</text>
+<rect x="440" y="340" width="80" height="40" fill="#fff" stroke="#ccd7ea"/>
+<text x="446" y="364" font-size="12" fill="#333">Room 209</text>
+<rect x="560" y="340" width="80" height="40" fill="#fff" stroke="#ccd7ea"/>
+<text x="566" y="364" font-size="12" fill="#333">Room 210</text>
+<text x="90" y="50" font-size="18" fill="#333">Floor 1</text>
+</svg>
