@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Indoor Navigation — Advanced</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="/favicon.ico">
+  <link rel="icon" type="image/svg+xml" href="/advanced/favicon.svg">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1a73e8">
+  <style>
+    :root { --sidebar: 360px; }
+    html, body { height:100%; margin:0; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; display:flex; }
+    #left { width:var(--sidebar); border-right:1px solid #e5e5e5; padding:12px; box-sizing:border-box; display:flex; flex-direction:column; gap:8px; }
+    #canvasWrap { position:relative; flex:1; overflow:hidden; background:#fff; touch-action:none; }
+    #canvas { position:absolute; inset:0; }
+    button, select { width:100%; padding:8px; }
+    .row { display:flex; gap:6px; }
+    .row > * { flex:1; }
+    .toolbar { display:flex; gap:6px; }
+    .toolbar button { flex:1; }
+    .muted { color:#666; font-size:12px; }
+    .panel { border:1px solid #eee; border-radius:8px; padding:8px; }
+    .title { margin:0 0 4px 0; }
+    ol { padding-left:18px; margin:8px 0 0 0; max-height:220px; overflow:auto; }
+    .legend { display:flex; gap:8px; align-items:center; font-size:12px; color:#444; }
+    .dot { width:10px; height:10px; border-radius:50%; background:#1a73e8; display:inline-block; }
+    .line { width:20px; height:2px; background:#1a73e8; display:inline-block; }
+  </style>
+</head>
+<body>
+  <div id="left">
+    <h3 class="title">Indoor Navigation — Advanced</h3>
+    <div class="row">
+      <label style="flex:1">From <select id="fromSel"></select></label>
+      <label style="flex:1">To <select id="toSel"></select></label>
+    </div>
+    <div class="row">
+      <label style="flex:1">Start Floor <select id="startFloorSel"></select></label>
+      <label style="flex:1">End Floor <select id="endFloorSel"></select></label>
+    </div>
+    <label class="muted"><input type="checkbox" id="accessible"/> Accessible (avoid stairs)</label>
+    <div class="toolbar">
+      <button id="routeBtn">Route</button>
+      <button id="playBtn">▶ Play</button>
+      <button id="pauseBtn">⏸ Pause</button>
+      <button id="resetBtn">⟲ Reset</button>
+    </div>
+    <div class="legend"><span class="line"></span> Route <span class="dot"></span> You</div>
+    <div class="panel">
+      <b>Turn-by-turn</b> <span class="badge" id="etaBadge">ETA: --</span>
+      <ol id="stepsList"></ol>
+    </div>
+    <div class="muted">Touch: pinch to zoom, drag to pan. Keys: Space play/pause.</div>
+  </div>
+  <div id="canvasWrap"><canvas id="canvas"></canvas></div>
+  <script src="app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) { navigator.serviceWorker.register('./sw.js'); }
+  </script>
+</body>
+</html>

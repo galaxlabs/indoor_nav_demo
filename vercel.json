@@ -1,13 +1,14 @@
 {
   "version": 2,
   "public": true,
-  "builds": [
-    {
-      "src": "advanced/**",
-      "use": "@vercel/static"
-    }
-  ],
   "routes": [
+    {
+      "src": "/favicon.ico",
+      "dest": "/advanced/favicon.svg"
+    },
+    {
+      "handle": "filesystem"
+    },
     {
       "src": "/(.*)",
       "dest": "/advanced/index.html"

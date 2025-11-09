@@ -1,0 +1,1210 @@
+{
+  "floors": [
+    0,
+    1,
+    2
+  ],
+  "nodes": [
+    {
+      "id": "F0-A",
+      "x": 120,
+      "y": 120,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-B",
+      "x": 320,
+      "y": 120,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-C",
+      "x": 520,
+      "y": 120,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-D",
+      "x": 720,
+      "y": 120,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-E",
+      "x": 720,
+      "y": 320,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-F",
+      "x": 520,
+      "y": 320,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-G",
+      "x": 320,
+      "y": 320,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-H",
+      "x": 120,
+      "y": 320,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-STAIR-A",
+      "x": 420,
+      "y": 220,
+      "floor": 0,
+      "type": "stair",
+      "label": "Stair A"
+    },
+    {
+      "id": "F0-LIFT-A",
+      "x": 470,
+      "y": 220,
+      "floor": 0,
+      "type": "lift",
+      "label": "Lift A"
+    },
+    {
+      "id": "F0-J-420-120",
+      "x": 420,
+      "y": 120,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-J-520-220",
+      "x": 520,
+      "y": 220,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-J-420-320",
+      "x": 420,
+      "y": 320,
+      "floor": 0,
+      "type": "junction"
+    },
+    {
+      "id": "F0-R101",
+      "x": 120,
+      "y": 80,
+      "floor": 0,
+      "type": "room",
+      "label": "Room 101"
+    },
+    {
+      "id": "F0-R102",
+      "x": 240,
+      "y": 80,
+      "floor": 0,
+      "type": "room",
+      "label": "Room 102"
+    },
+    {
+      "id": "F0-R103",
+      "x": 360,
+      "y": 80,
+      "floor": 0,
+      "type": "room",
+      "label": "Room 103"
+    },
+    {
+      "id": "F0-R104",
+      "x": 480,
+      "y": 80,
+      "floor": 0,
+      "type": "room",
+      "label": "Room 104"
+    },
+    {
+      "id": "F0-R105",
+      "x": 600,
+      "y": 80,
+      "floor": 0,
+      "type": "room",
+      "label": "Room 105"
+    },
+    {
+      "id": "F0-R106",
+      "x": 120,
+      "y": 360,
+      "floor": 0,
+      "type": "room",
+      "label": "Room 106"
+    },
+    {
+      "id": "F0-R107",
+      "x": 240,
+      "y": 360,
+      "floor": 0,
+      "type": "room",
+      "label": "Room 107"
+    },
+    {
+      "id": "F0-R108",
+      "x": 360,
+      "y": 360,
+      "floor": 0,
+      "type": "room",
+      "label": "Room 108"
+    },
+    {
+      "id": "F0-R109",
+      "x": 480,
+      "y": 360,
+      "floor": 0,
+      "type": "room",
+      "label": "Room 109"
+    },
+    {
+      "id": "F0-R110",
+      "x": 600,
+      "y": 360,
+      "floor": 0,
+      "type": "room",
+      "label": "Room 110"
+    },
+    {
+      "id": "F1-A",
+      "x": 120,
+      "y": 120,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-B",
+      "x": 320,
+      "y": 120,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-C",
+      "x": 520,
+      "y": 120,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-D",
+      "x": 720,
+      "y": 120,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-E",
+      "x": 720,
+      "y": 320,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-F",
+      "x": 520,
+      "y": 320,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-G",
+      "x": 320,
+      "y": 320,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-H",
+      "x": 120,
+      "y": 320,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-STAIR-A",
+      "x": 420,
+      "y": 220,
+      "floor": 1,
+      "type": "stair",
+      "label": "Stair A"
+    },
+    {
+      "id": "F1-LIFT-A",
+      "x": 470,
+      "y": 220,
+      "floor": 1,
+      "type": "lift",
+      "label": "Lift A"
+    },
+    {
+      "id": "F1-J-420-120",
+      "x": 420,
+      "y": 120,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-J-520-220",
+      "x": 520,
+      "y": 220,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-J-420-320",
+      "x": 420,
+      "y": 320,
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "F1-R201",
+      "x": 120,
+      "y": 80,
+      "floor": 1,
+      "type": "room",
+      "label": "Room 201"
+    },
+    {
+      "id": "F1-R202",
+      "x": 240,
+      "y": 80,
+      "floor": 1,
+      "type": "room",
+      "label": "Room 202"
+    },
+    {
+      "id": "F1-R203",
+      "x": 360,
+      "y": 80,
+      "floor": 1,
+      "type": "room",
+      "label": "Room 203"
+    },
+    {
+      "id": "F1-R204",
+      "x": 480,
+      "y": 80,
+      "floor": 1,
+      "type": "room",
+      "label": "Room 204"
+    },
+    {
+      "id": "F1-R205",
+      "x": 600,
+      "y": 80,
+      "floor": 1,
+      "type": "room",
+      "label": "Room 205"
+    },
+    {
+      "id": "F1-R206",
+      "x": 120,
+      "y": 360,
+      "floor": 1,
+      "type": "room",
+      "label": "Room 206"
+    },
+    {
+      "id": "F1-R207",
+      "x": 240,
+      "y": 360,
+      "floor": 1,
+      "type": "room",
+      "label": "Room 207"
+    },
+    {
+      "id": "F1-R208",
+      "x": 360,
+      "y": 360,
+      "floor": 1,
+      "type": "room",
+      "label": "Room 208"
+    },
+    {
+      "id": "F1-R209",
+      "x": 480,
+      "y": 360,
+      "floor": 1,
+      "type": "room",
+      "label": "Room 209"
+    },
+    {
+      "id": "F1-R210",
+      "x": 600,
+      "y": 360,
+      "floor": 1,
+      "type": "room",
+      "label": "Room 210"
+    },
+    {
+      "id": "F2-A",
+      "x": 120,
+      "y": 120,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-B",
+      "x": 320,
+      "y": 120,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-C",
+      "x": 520,
+      "y": 120,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-D",
+      "x": 720,
+      "y": 120,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-E",
+      "x": 720,
+      "y": 320,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-F",
+      "x": 520,
+      "y": 320,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-G",
+      "x": 320,
+      "y": 320,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-H",
+      "x": 120,
+      "y": 320,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-STAIR-A",
+      "x": 420,
+      "y": 220,
+      "floor": 2,
+      "type": "stair",
+      "label": "Stair A"
+    },
+    {
+      "id": "F2-LIFT-A",
+      "x": 470,
+      "y": 220,
+      "floor": 2,
+      "type": "lift",
+      "label": "Lift A"
+    },
+    {
+      "id": "F2-J-420-120",
+      "x": 420,
+      "y": 120,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-J-520-220",
+      "x": 520,
+      "y": 220,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-J-420-320",
+      "x": 420,
+      "y": 320,
+      "floor": 2,
+      "type": "junction"
+    },
+    {
+      "id": "F2-R301",
+      "x": 120,
+      "y": 80,
+      "floor": 2,
+      "type": "room",
+      "label": "Room 301"
+    },
+    {
+      "id": "F2-R302",
+      "x": 240,
+      "y": 80,
+      "floor": 2,
+      "type": "room",
+      "label": "Room 302"
+    },
+    {
+      "id": "F2-R303",
+      "x": 360,
+      "y": 80,
+      "floor": 2,
+      "type": "room",
+      "label": "Room 303"
+    },
+    {
+      "id": "F2-R304",
+      "x": 480,
+      "y": 80,
+      "floor": 2,
+      "type": "room",
+      "label": "Room 304"
+    },
+    {
+      "id": "F2-R305",
+      "x": 600,
+      "y": 80,
+      "floor": 2,
+      "type": "room",
+      "label": "Room 305"
+    },
+    {
+      "id": "F2-R306",
+      "x": 120,
+      "y": 360,
+      "floor": 2,
+      "type": "room",
+      "label": "Room 306"
+    },
+    {
+      "id": "F2-R307",
+      "x": 240,
+      "y": 360,
+      "floor": 2,
+      "type": "room",
+      "label": "Room 307"
+    },
+    {
+      "id": "F2-R308",
+      "x": 360,
+      "y": 360,
+      "floor": 2,
+      "type": "room",
+      "label": "Room 308"
+    },
+    {
+      "id": "F2-R309",
+      "x": 480,
+      "y": 360,
+      "floor": 2,
+      "type": "room",
+      "label": "Room 309"
+    },
+    {
+      "id": "F2-R310",
+      "x": 600,
+      "y": 360,
+      "floor": 2,
+      "type": "room",
+      "label": "Room 310"
+    }
+  ],
+  "edges": [
+    {
+      "from": "F0-A",
+      "to": "F0-B",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-B",
+      "to": "F0-C",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-C",
+      "to": "F0-D",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-D",
+      "to": "F0-E",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-E",
+      "to": "F0-F",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-F",
+      "to": "F0-G",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-G",
+      "to": "F0-H",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-H",
+      "to": "F0-A",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-B",
+      "to": "F0-J-420-120",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-J-420-120",
+      "to": "F0-STAIR-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-J-420-120",
+      "to": "F0-LIFT-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-F",
+      "to": "F0-J-520-220",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-J-520-220",
+      "to": "F0-STAIR-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-J-520-220",
+      "to": "F0-LIFT-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-G",
+      "to": "F0-J-420-320",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-J-420-320",
+      "to": "F0-STAIR-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-J-420-320",
+      "to": "F0-LIFT-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-R101",
+      "to": "F0-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-R102",
+      "to": "F0-B",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-R103",
+      "to": "F0-C",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-R104",
+      "to": "F0-D",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-R105",
+      "to": "F0-D",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-R106",
+      "to": "F0-H",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-R107",
+      "to": "F0-G",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-R108",
+      "to": "F0-F",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-R109",
+      "to": "F0-E",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-R110",
+      "to": "F0-E",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-A",
+      "to": "F1-B",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-B",
+      "to": "F1-C",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-C",
+      "to": "F1-D",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-D",
+      "to": "F1-E",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-E",
+      "to": "F1-F",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-F",
+      "to": "F1-G",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-G",
+      "to": "F1-H",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-H",
+      "to": "F1-A",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-B",
+      "to": "F1-J-420-120",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-J-420-120",
+      "to": "F1-STAIR-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-J-420-120",
+      "to": "F1-LIFT-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-F",
+      "to": "F1-J-520-220",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-J-520-220",
+      "to": "F1-STAIR-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-J-520-220",
+      "to": "F1-LIFT-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-G",
+      "to": "F1-J-420-320",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-J-420-320",
+      "to": "F1-STAIR-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-J-420-320",
+      "to": "F1-LIFT-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-R201",
+      "to": "F1-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-R202",
+      "to": "F1-B",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-R203",
+      "to": "F1-C",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-R204",
+      "to": "F1-D",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-R205",
+      "to": "F1-D",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-R206",
+      "to": "F1-H",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-R207",
+      "to": "F1-G",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-R208",
+      "to": "F1-F",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-R209",
+      "to": "F1-E",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F1-R210",
+      "to": "F1-E",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-A",
+      "to": "F2-B",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-B",
+      "to": "F2-C",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-C",
+      "to": "F2-D",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-D",
+      "to": "F2-E",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-E",
+      "to": "F2-F",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-F",
+      "to": "F2-G",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-G",
+      "to": "F2-H",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-H",
+      "to": "F2-A",
+      "weight": 20,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-B",
+      "to": "F2-J-420-120",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-J-420-120",
+      "to": "F2-STAIR-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-J-420-120",
+      "to": "F2-LIFT-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-F",
+      "to": "F2-J-520-220",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-J-520-220",
+      "to": "F2-STAIR-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-J-520-220",
+      "to": "F2-LIFT-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-G",
+      "to": "F2-J-420-320",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-J-420-320",
+      "to": "F2-STAIR-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-J-420-320",
+      "to": "F2-LIFT-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-R301",
+      "to": "F2-A",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-R302",
+      "to": "F2-B",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-R303",
+      "to": "F2-C",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-R304",
+      "to": "F2-D",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-R305",
+      "to": "F2-D",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-R306",
+      "to": "F2-H",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-R307",
+      "to": "F2-G",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-R308",
+      "to": "F2-F",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-R309",
+      "to": "F2-E",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F2-R310",
+      "to": "F2-E",
+      "weight": 15,
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "from": "F0-STAIR-A",
+      "to": "F1-STAIR-A",
+      "weight": 80,
+      "modes": [
+        "stairs"
+      ]
+    },
+    {
+      "from": "F0-LIFT-A",
+      "to": "F1-LIFT-A",
+      "weight": 50,
+      "modes": [
+        "lift"
+      ]
+    },
+    {
+      "from": "F1-STAIR-A",
+      "to": "F2-STAIR-A",
+      "weight": 80,
+      "modes": [
+        "stairs"
+      ]
+    },
+    {
+      "from": "F1-LIFT-A",
+      "to": "F2-LIFT-A",
+      "weight": 50,
+      "modes": [
+        "lift"
+      ]
+    }
+  ]
+}
